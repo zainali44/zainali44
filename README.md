@@ -1,104 +1,67 @@
-<h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm  ZAIN ALI</h2>
-<h3 align="center">I am a Full Stack Developer</h3>
-
 <div align="center">
-<p align="center">Let's connect!</p>
-<a href="https://twitter.com/_zainali44">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
 
-<a href="https://www.instagram.com/zain_rajp00t/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+# Zain Ali
 
-<a href="https://www.linkedin.com/in/zain-ali-840b441b8/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://wa.me/923416778145">
-    <img src="https://img.shields.io/badge/whatsapp-%230077B5.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
+**Software Engineer** &nbsp;·&nbsp; Islamabad, Pakistan
 
-<a href="http://github.com/zainali44">
-    <img src="https://img.shields.io/badge/github-FE7A16?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.facebook.com/zain5534">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-</div>
+Building web platforms, mobile apps, and the infrastructure behind them — for 4+ years.
 
 <br>
 
-<!-- <div align="center">
-<p align="center">Nominate me as GitHub Star ⭐</p>
-
-<a href="https://stars.github.com/nominate/">
-    <img src="https://img.shields.io/badge/GitHub-100000?&style=for-the-badge&logo=GitHub&logoColor=white&color=fa3667" />
-</a>
-
-</div> -->
-<br>
-<br>
-<img align="right" alt="GIF" src="1.gif" height="250" />
-
-
-
-### Developer & Designer
-
-
-#### About me :
-
-- 👉 Learning <b>Django</b>
-- 💻 Available for contribution to any Open Source Project
-- ✨ Reach me Out via [Email](mailto:zaincui5542@gmail.com)
-- 👨‍💻 My projects are available at [GitHub](github.com/zain44)
-- 📄 [Portfolio]
-
-<!-- ### Languages & Tools
-
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> -->
-
-<br>
-<hr>
-<div align="center">
-<h3 align="center">Tools & Technology 🛠</h3>
-<br>
-
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
-<img src="https://img.shields.io/badge/Django-02569B?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-F05032?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
-
+[**LinkedIn**](https://www.linkedin.com/in/zain-ali-840b441b8/) &nbsp;·&nbsp; [**X**](https://twitter.com/_zainali44) &nbsp;·&nbsp; [**Email**](mailto:zaincui5542@gmail.com) &nbsp;·&nbsp; [**Portfolio**](https://zainali44.github.io/zainali/)
 
 </div>
 
 <br>
 
-<summary>📝My GitHub Stats</summary>
+## About
+
+I take products from first design to production — frontend, backend, and deployment. Most of my work lives in the JavaScript/TypeScript ecosystem, with a focus on clean architecture and interfaces that feel fast.
+
+- **Currently** — building data-driven web platforms with Next.js and TypeScript
+- **Also shipping** — cross-platform mobile apps with React Native and Flutter
+- **On the side** — open to collaborating on well-scoped open-source work
+
 <br>
 
-[![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=zainali44&show_icons=true&theme=radical)](https://github.com/zainali44/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zainali44&theme=radical)](https://github.com/zainali44/github-readme-stats)
+## Stack
+
+<div align="center">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css&theme=dark" alt="Next.js, React, TypeScript, JavaScript, Tailwind CSS, HTML, CSS"/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,mongodb,mysql,firebase&theme=dark" alt="Node.js, Express, Python, PostgreSQL, MongoDB, MySQL, Firebase"/>
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,react&theme=dark" alt="Flutter, Dart, React Native"/>
+
+**Cloud & Tooling**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,postman,vscode,figma&theme=dark" alt="AWS, Docker, Git, GitHub, GitHub Actions, Postman, VS Code, Figma"/>
+
+</div>
+
 <br>
-</p>
-<p align = "center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zainali44&theme=radical" />
-</p>
 
+## Contributions
 
-AN open Source Contributor from <b>Islamabad,Pakistan<b> 💚
+<div align="center">
 
-![](https://visitor-badge.glitch.me/badge?page_id=zainali44.zainali44)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zainali44/zainali44/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zainali44/zainali44/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/zainali44/zainali44/output/github-contribution-grid-snake.svg" alt="Contribution graph">
+</picture>
 
-[COMSATS_Islamabad]:https://www.comsats.edu.pk/
-[Portfolio]:https://zainali44.github.io/zainali/
+</div>
 
+<br>
+
+<div align="center">
+  <sub>Thanks for stopping by — the best way to reach me is <a href="mailto:zaincui5542@gmail.com">email</a>.</sub>
+</div>
